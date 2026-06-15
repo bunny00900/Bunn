@@ -11,7 +11,7 @@ from telethon.sessions import StringSession
 # ── credentials (hardcoded as requested) ─────────────────────────────────────
 API_ID = 28350158
 API_HASH = "01243eddcec18adbcb459907dd12f0d6"
-SESSION = "1AZWarzgBu2Kbnsl_HiSjMY_Z9_bsSMf5QmthAz_aRL16dPPD7F02h1tlK4Lu0kHDzm1a4lgWLMh30CU4CvGNFyC6pAGw5uT55TjRuKc3Y0EAQWc0rvM3rH1Cuf52XNOCynyEPbyZhK4viBb0KIC-vjA1QoTEaMZ9qCuKfvFyQGZKmFS4pg4N6f3jzv-jhzhySf7Rwh88LkauYbwE8qzQyhuMhN9PzU4Oq-49JOGrqT6IYjfrWvCs0p9danh2qXtnxNmznSoavLQoBydT1BijA-U1jZVqH5lGStbfJevmqz_Io0zg1H4fCqFcMBikOHDy-wpO_pvfp0bakNeExF0AtA8dNuqbJhE="
+SESSION = "1AZWarzgBuyG0HT2U3-Ae5L93hAI7_xb9QVvD0ME9dG35io2Q_3SkOIGCBmcQoiJiPkIDcLzO2AdNPrd2HTG9JA_42FsrkgJ-izGGKE4JXUa1885uZdTrMJU61G-PR3iVbkneKLUpxOWfDaAs8Z4Hr5iZ2Hv6j7qssmduZbuJjApOGmj5fF3I1x8x4EF7y-nMpqeCLHFdgWP4SqQmIJP_Fm6Y_VEoOkcdgEGam6t3dChomR1ndbIFWVvLX-wHWDlNxwDhFnKI-E_gYdI5yT_1BjhYmie3lKYKeUT60rfeIVKQpn_Nq1d8_1AXz6AO5gaRmxPUId20PbIl4L4IYRTB41V2iQgjJi0="
 BOT_USERNAME = "@VECHILE_INFO_BY_POLYX1_bot"
 
 # ── shared state ──
